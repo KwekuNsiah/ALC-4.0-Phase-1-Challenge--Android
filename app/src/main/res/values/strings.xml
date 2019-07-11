@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="abt_alc_name">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="track_title">Track :</string>
+    <string name="emmanuel_nsiah_string">Emmanuel Nsiah</string>
+    <string name="android_track_name">Android</string>
+    <string name="country_res">Country :</string>
+    <string name="country_name">Ghana</string>
+    <string name="email_res">Email :</string>
+    <string name="email_name">qwekunsiah@gmail.com</string>
+    <string name="phone_number_res">Phone Number :</string>
+    <string name="my_phonenumber">249389954</string>
+    <string name="slack_name_res">Slack Username :</string>
+    <string name="todo_res">TODO</string>
+    <string name="about_alc_btn_res">ABOUT ALC</string>
+    <string name="my_profile_btn_res">MY PROFILE</string>
+    <string name="welcome_res">Welcome to ALC 4.0</string>
+</resources>
